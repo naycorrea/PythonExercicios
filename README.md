@@ -1,5 +1,8 @@
 <h1>:snake: Python</h1>
 
+[![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg?style=flat)]()
+[![GitHub commit activity the past week, 4 weeks](https://img.shields.io/github/commit-activity/y/eslint/eslint.svg?style=flat)]()
+
 <p>:page_facing_up: Lista de exercícios do Curso em Vídeo para aprendizagem de Python.</p>
 
 ### :pencil: Exercícios
