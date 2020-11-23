@@ -5,7 +5,7 @@
 ### :pushpin: Enunciados
 
 - [x] <a href="https://github.com/naycorrea/PythonExercicios/blob/master/ex001.py" rel="nofollow">ex001 - Hello, World!</a>
-- [x] ex002 - Ler o nome de uma pessoa e mostrar uma mensagem de boas-vindas
+- [x] <a href="https://github.com/naycorrea/PythonExercicios/blob/master/ex002.py" rel="nofollow">ex002 - Ler o nome de uma pessoa e mostrar uma mensagem de boas-vindas</a>
 
 
 
