@@ -2,7 +2,7 @@
 
 <p>:page_facing_up: Lista de exercícios do Curso em Vídeo para aprendizagem de Python.</p>
 
-### :pushpin: Enunciados
+### :pushpin: Exercícios
 
 - [x] <a href="https://github.com/naycorrea/PythonExercicios/blob/master/ex001.py" rel="nofollow">ex001 - Hello, World!</a>
 - [x] <a href="https://github.com/naycorrea/PythonExercicios/blob/master/ex002.py" rel="nofollow">ex002 - Ler o nome de uma pessoa e mostrar uma mensagem de boas-vindas</a>
