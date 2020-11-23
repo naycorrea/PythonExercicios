@@ -1,7 +1,12 @@
 <h1>:snake: Python</h1>
 
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![PyPi Python Versions](https://img.shields.io/pypi/pyversions/yt2mp3.svg)](https://pypi.python.org/pypi/yt2mp3/)
+[![official JetBrains project](http://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
 [![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg?style=flat)]()
-[![GitHub commit activity the past week, 4 weeks](https://img.shields.io/github/commit-activity/y/eslint/eslint.svg?style=flat)]()
+[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars&style=plastic)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/badges/shields.svg?style=social&label=Watch&style=plastic)]()
+[![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork&style=plastic)]()
 
 <p>:page_facing_up: Lista de exercícios do Curso em Vídeo para aprendizagem de Python.</p>
 
